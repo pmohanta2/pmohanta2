@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 [SQL-url]:https://www.sql.org/
 [tensorflow]:https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white
 [TensorFlow-url]:https://www.tensorflow.org/
-[matplotlib]:https://img.shields.io/badge/Matplotlib-8EA220?logo=python&logoColor=white
+[matplotlib]:https://img.shields.io/badge/Matplotlib-1BBE6F?logo=python&logoColor=white
 [Matplotlib-url]:https://matplotlib.org/
-[seaborn]:https://img.shields.io/badge/Seaborn-orange?logo=python&logoColor=white
+[seaborn]:https://img.shields.io/badge/Seaborn-633681?logo=python&logoColor=white
 [Seaborn-url]:https://seaborn.pydata.org/
-[mysql]:https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white
+[mysql]:https://img.shields.io/badge/MySQL-E8EE18?logo=mysql&logoColor=white
 [MySQL-url]:https://www.mysql.com/
 [jupyter]:https://img.shields.io/badge/Jupyter-Orange?logo=jupyter&logoColor=white
 [Jupyter-url]:https://jupyter.org/
