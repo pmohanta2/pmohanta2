@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 [Scikit-learn-url]:https://scikit-learn.org/stable/index.html
 [Streamlit.io]:https://img.shields.io/badge/Streamlit-DD0031?logo=streamlit&logoColor=black
 [Streamlit-url]:https://streamlit.io/
-[sql]:https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=white
+[sql]:https://img.shields.io/badge/SQL-C10A4C?logo=mysql&logoColor=white
 [SQL-url]:https://www.sql.org/
 [tensorflow]:https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white
 [TensorFlow-url]:https://www.tensorflow.org/
-[matplotlib]:https://img.shields.io/badge/Matplotlib-blue?logo=python&logoColor=white
+[matplotlib]:https://img.shields.io/badge/Matplotlib-8EA220?logo=python&logoColor=white
 [Matplotlib-url]:https://matplotlib.org/
 [seaborn]:https://img.shields.io/badge/Seaborn-orange?logo=python&logoColor=white
 [Seaborn-url]:https://seaborn.pydata.org/
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 [VSCode-url]:https://code.visualstudio.com/
 [beautifulsoup]:https://img.shields.io/badge/Beautiful%20Soup-orange?logo=python&logoColor=white
 [BeautifulSoup-url]:https://www.crummy.com/software/BeautifulSoup/
-[requests]:https://img.shields.io/badge/Requests-blue?logo=python&logoColor=white
+[requests]:https://img.shields.io/badge/Requests-2096A2?logo=python&logoColor=white
 [Requests-url]:https://docs.python-requests.org/en/master/
 [excel]:https://img.shields.io/badge/Excel-007ACC?logo=microsoftexcel&logoColor=white
 [Excel-url]:https://www.microsoft.com/en-us/microsoft-365/excel
