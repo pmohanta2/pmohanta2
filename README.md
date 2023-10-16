@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 [Matplotlib-url]:https://matplotlib.org/
 [seaborn]:https://img.shields.io/badge/Seaborn-633681?logo=python&logoColor=white
 [Seaborn-url]:https://seaborn.pydata.org/
-[mysql]:https://img.shields.io/badge/MySQL-E8EE18?logo=mysql&logoColor=white
+[mysql]:https://img.shields.io/badge/MySQL-AB9B0D?logo=mysql&logoColor=white
 [MySQL-url]:https://www.mysql.com/
 [jupyter]:https://img.shields.io/badge/Jupyter-Orange?logo=jupyter&logoColor=white
 [Jupyter-url]:https://jupyter.org/
